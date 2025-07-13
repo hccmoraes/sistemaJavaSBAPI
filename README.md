@@ -1,7 +1,7 @@
 # Projeto Java Web no Spring Boot e API
 >  Neste projeto, utilizando os videos do canal DEVSuperior, consegui criar um sistema com API REST, em Spring Boot, . 
 
-## Obejito
+## Objetivo
 Criar um sistema web em java com API em Spring Boot, para que possa ganhar fluência em Spring Boot
 
 ### Conhecimentos Utilizados
