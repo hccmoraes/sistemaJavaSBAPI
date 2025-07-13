@@ -25,5 +25,8 @@ Construir um pequeno sistema (API REST) de usuários e departamentos, com os cas
 - Buscar todos usuários
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
+- Buscar todos os departamentos
+- Buscar um departamento pelo seu id
+- Inserir um novo departamento
 
 
